@@ -1,0 +1,1 @@
+#通过rememberme,(实现PersistentTokenRepository接口，对rememberMe----将用户token及登陆人信息缓存redis）
